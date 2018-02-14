@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://d3jkudlc7u70kh.cloudfront.net/interesting-history-of-surfing-facts.jpg");
+  color: white;
+  font-family: 'Kavivanar', serif;
+  font-size: 30px;
+  }
+
+h1, h2{
+  margin: center;
+  font-family: 'Roboto', serif;
+
+}
+
+img{
+  margin: 10px;
+}
